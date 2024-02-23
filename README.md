@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
-- ⭐Un apasionado desarrollador web en la recta final de culminar la carrera de ingeniería de sistemas. Especializado en tecnologías como React, JavaScript, Node.js y MySQL, mi enfoque es crear experiencias de usuario intuitivas y atractivas. Con habilidades sólidas en Git, GitHub y Tailwind CSS, me encanta enfrentar desafíos para ofrecer soluciones creativas e innovadoras.⭐ 
+- ⭐Un apasionado desarrollador web en la recta final de culminar la carrera de ingeniería de sistemas. Especializado en tecnologías como Html, Css, JavaScript, React, Next, mi enfoque es crear experiencias de usuario intuitivas y atractivas. Con habilidades sólidas en Git, GitHub y Tailwind CSS, me encanta enfrentar desafíos para ofrecer soluciones creativas e innovadoras.⭐ 
 - 👨‍💻 Desarrollador Web 
 - 🧑‍🏫 Portafolio (https://portafolio-olive-two.vercel.app/)
 <br>
